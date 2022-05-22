@@ -1,0 +1,22 @@
+{
+  "name": "useless-calc",
+  "version": "1.0.0",
+  "description": "This is an useless calculation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekmaitra/useless-calc.git"
+  },
+  "keywords": [
+    "useless"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekmaitra/useless-calc/issues"
+  },
+  "homepage": "https://github.com/Abhishekmaitra/useless-calc#readme"
+}
